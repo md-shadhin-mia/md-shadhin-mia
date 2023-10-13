@@ -16,10 +16,10 @@ I'm always eager to learn new technologies. Currently, I'm diving into:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+<!--
 ## 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-shadhin-mia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## 🌍 Connect with Me
 Let's connect and chat about technology, open source, or anything else!
 
