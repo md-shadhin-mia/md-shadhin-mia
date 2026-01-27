@@ -3,7 +3,7 @@ I'm [MD Shadhin Mia](https://www.linkedin.com/in/mdshadhinkn/), a passionate sof
 
 ## 🔧 Technologies & Tools
 Here are some of the technologies and tools I work with:
-
+![PHP](https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
